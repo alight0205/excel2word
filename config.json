@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "name": "cat-heiza",
+            "age": "21",
+            "phone": "12888888888"
+        },
+        {
+            "name": "cat-heiza",
+            "age": "21",
+            "phone": "12888888888"
+        },
+        {
+            "name": "cat-heiza",
+            "age": "21",
+            "phone": "12888888888"
+        }
+    ]
+}

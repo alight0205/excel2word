@@ -1,0 +1,16 @@
+{
+  "name": "excel2word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'cat-heiza'",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.21.1",
+    "node-xlsx": "^0.16.1",
+    "pizzip": "^3.0.6"
+  }
+}
